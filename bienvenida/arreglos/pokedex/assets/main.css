@@ -1,0 +1,15 @@
+body, html{
+    background: #6997d7;
+}
+
+#contenedor_principal{
+    padding-top: 50px;
+    //margin: 30px;
+}
+
+#tabla{
+    background: #9b9b9b;
+}
+#formulario{
+    background: #ebebeb;
+}
